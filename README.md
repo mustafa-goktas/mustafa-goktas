@@ -1,6 +1,6 @@
 ![MasterHead](https://perspektifyazilim.com/uploads/topics/16343742471680.jpeg)
 # 💫 About Me:
-🌱 I am currently learning with Javascript ,Typescript, React and React Native.<br>📝I’m still improving myself.<br>⚡I develop projects with React, Javascript & React Native.<br>💬You can ask me questions about React JS, React Native and Javascript.<br>📫You can reach me at mustafagoktasdev@gmail.com
+🌱I am currently learning with Javascript ,Typescript, React and React Native.<br>📝I’m still improving myself.<br>⚡I develop projects with React, Javascript & React Native.<br>💬You can ask me questions about React JS, React Native and Javascript.<br>📫You can reach me at mustafagoktasdev@gmail.com
 
 
 # 💻 Tech Stack:
